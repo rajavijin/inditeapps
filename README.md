@@ -1,2 +1,2 @@
 # inditeapps
-Company website
+Company website for indite
